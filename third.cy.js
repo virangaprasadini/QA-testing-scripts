@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+
 
 describe('Email Field - Invalid Format Validation', () => {
   beforeEach(() => {

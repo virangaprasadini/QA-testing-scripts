@@ -1,5 +1,5 @@
-/// <reference types="cypress" />
-import 'cypress-file-upload'; // Import file upload support
+
+import 'cypress-file-upload'; 
 
 describe('Job Application Form Automation', () => {
     beforeEach(() => {

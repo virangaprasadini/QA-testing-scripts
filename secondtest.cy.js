@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+
 
 describe('Job Application Form - Mandatory Fields Blank', () => {
   beforeEach(() => {
